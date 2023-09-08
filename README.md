@@ -1,4 +1,4 @@
 # 2023_wa_sa_brnak
-Gone camping! :tent: Be back soon.
+Good camping! :tent:
 
-That is so funny! :joy:
+That is so funny BRO :joy:
