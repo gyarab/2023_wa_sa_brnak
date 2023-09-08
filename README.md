@@ -1,8 +1,4 @@
 # 2023_wa_sa_brnak
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
