@@ -3,7 +3,7 @@ Good camping! :tent:
 
 That is so funny BRO :joy:
 
-[gyarab]([https://link-url-here.org](https://www.gyarab.cz/))
+[gyarab](https://www.gyarab.cz/)
 
 <mark>very important words</mark>
 
