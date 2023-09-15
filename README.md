@@ -9,8 +9,8 @@ AHA tak to jo! :tent:
 
 | DAY    | SCHOOL STATUS |
 | -------- | ------- |
-| PONDĚLÍ  | EZ   |
-| ÚTERÝ | EZ   |
-| STŘEDA | EZ |   
-|ČTVRTEK | EZ| 
-|PÁTEK| EZ|
+| PONDĚLÍ  | :EZ: |
+| ÚTERÝ | EZ: |
+| STŘEDA | :EZ |   
+|ČTVRTEK | EZ: | 
+|PÁTEK| :EZ: |
