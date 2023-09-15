@@ -15,4 +15,5 @@ AHA tak to jo! :tent:
 |ČTVRTEK | EZ; | 
 |PÁTEK| ;EZ; |
 
-[![dance] (https://media2.giphy.com/media/U1rlk8zdcAwbm/giphy.gif?cid=ecf05e47ryvs5xoocgnnxper7kvodtohg1fur58t6rjx14a4&ep=v1_gifs_search&rid=giphy.gif&ct=g)] (https://media2.giphy.com/media/U1rlk8zdcAwbm/giphy.gif?cid=ecf05e47ryvs5xoocgnnxper7kvodtohg1fur58t6rjx14a4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[![dance] (![image](https://github.com/gyarab/2023_wa_sa_brnak/assets/100611982/35942cb2-04d1-4622-8e2a-e9df999d0873)
+)] (https://media2.giphy.com/media/U1rlk8zdcAwbm/giphy.gif?cid=ecf05e47ryvs5xoocgnnxper7kvodtohg1fur58t6rjx14a4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
