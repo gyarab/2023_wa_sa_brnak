@@ -9,8 +9,10 @@ AHA tak to jo! :tent:
 
 | DAY    | SCHOOL STATUS |
 | -------- | ------- |
-| PONDĚLÍ  | :EZ: |
-| ÚTERÝ | EZ: |
-| STŘEDA | :EZ |   
-|ČTVRTEK | EZ: | 
-|PÁTEK| :EZ: |
+| PONDĚLÍ  | ;EZ; |
+| ÚTERÝ | EZ; |
+| STŘEDA | ;EZ |   
+|ČTVRTEK | EZ; | 
+|PÁTEK| ;EZ; |
+
+[![dance] (https://media2.giphy.com/media/U1rlk8zdcAwbm/giphy.gif?cid=ecf05e47ryvs5xoocgnnxper7kvodtohg1fur58t6rjx14a4&ep=v1_gifs_search&rid=giphy.gif&ct=g)] (https://media2.giphy.com/media/U1rlk8zdcAwbm/giphy.gif?cid=ecf05e47ryvs5xoocgnnxper7kvodtohg1fur58t6rjx14a4&ep=v1_gifs_search&rid=giphy.gif&ct=g)
