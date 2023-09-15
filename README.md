@@ -1,5 +1,5 @@
 # 2023_wa_sa_brnak
-Good camping! :tent:
+AHA tak to jo! :tent:
 - That is so funny BRO :joy:
 - Aleš Bejr = IDOL
 
