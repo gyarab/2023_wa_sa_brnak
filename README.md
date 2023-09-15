@@ -15,5 +15,5 @@ AHA tak to jo! :tent:
 |ČTVRTEK | EZ; | 
 |PÁTEK| ;EZ; |
 
-[![image](https://github.com/gyarab/2023_wa_sa_brnak/assets/100611982/35942cb2-04d1-4622-8e2a-e9df999d0873)
-] 
+![image](https://github.com/gyarab/2023_wa_sa_brnak/assets/100611982/35942cb2-04d1-4622-8e2a-e9df999d0873)
+
