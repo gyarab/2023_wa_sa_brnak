@@ -7,8 +7,10 @@ Good camping! :tent:
 
 ![image](https://imagebox.cz.osobnosti.cz/foto/ales-bejr/ales-bejr.jpg)
 
-| Month    | Savings |
+| DAY    | SCHOOL STATUS |
 | -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| PONDĚLÍ  | EZ   |
+| ÚTERÝ | EZ   |
+| STŘEDA | EZ |   
+|ČTVRTEK | EZ| 
+|PÁTEK| EZ|
