@@ -9,11 +9,11 @@ AHA tak to jo! :tent:
 
 | DAY    | SCHOOL STATUS |
 | -------- | ------- |
-| PONDĚLÍ  | ;EZ; |
-| ÚTERÝ | EZ; |
-| STŘEDA | ;EZ |   
-|ČTVRTEK | EZ; | 
-|PÁTEK| ;EZ; |
+| PONDĚLÍ  | EZZ |
+| ÚTERÝ | EZ |
+| STŘEDA | EZ |   
+|ČTVRTEK | EZ | 
+|PÁTEK| EZ |
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
