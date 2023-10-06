@@ -11,8 +11,10 @@ MCDonald
 
 **CHANGE**
 
-<img src="https://st2.depositphotos.com/16030310/43064/v/1600/depositphotos_430649154-stock-illustration-initial-letter-logo-company-name.jpg" width = "300" height="300">
-
-- ORANŽOVÁ - #ffb100
-- ZELENÁ - #84c639
+![image](https://placehold.co/300x200/F55A00/FFFFFF)
+![image](https://placehold.co/300x200/FB00FA/FFFFFF)
+![image](https://placehold.co/300x200/DE960B/FFFFFF)
+- Oranžová - #F55A00 - energie, zábava
+- Růžová - #FB00FA - mladiství, kouzelnický
+- Zlatá - #DE960B - drahé, luxusní
 ###
