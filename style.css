@@ -1,0 +1,17 @@
+p{
+    background-size: 70vh;
+    background-position: center;
+    line-height: 16px;
+    color: aqua;
+  }
+h1{
+    color: beige;
+    
+}
+h2{
+    color: yellow;
+}
+li{
+    color: blueviolet;
+    font-family: cursive;
+}
