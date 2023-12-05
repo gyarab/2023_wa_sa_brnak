@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.gold{
+    color: gold;
+}
+.card{
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+}
+.card img{
+    width: 100%;
+    height: 100%;
+}
+.cardRow{
+    display: flex;
+}
