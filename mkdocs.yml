@@ -1,0 +1,7 @@
+site_name: Boss
+
+nav:
+  - Úvod: 'index.md'
+  - Maturita ČJ: 'maturita.md' 
+
+theme: custommill
